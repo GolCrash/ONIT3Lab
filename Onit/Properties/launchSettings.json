@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Onit": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

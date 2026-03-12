@@ -1,0 +1,32 @@
+﻿version: '3.9'
+
+services:
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: gaming_db
+    environment:
+      SA_PASSWORD: ${DB_PASSWORD}
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+
+  app:
+    build: .
+    container_name: gaming_app
+
+    depends_on:
+      - db
+
+    stdin_open: true
+    tty: true
+
+    environment:
+      DB_CONNECTION: "Server=db;Database=gaming;User Id=sa;Password=${DB_PASSWORD};TrustServerCertificate=True;"
+
+    healthcheck:
+      test: ["CMD", "dotnet", "Onit.dll"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
