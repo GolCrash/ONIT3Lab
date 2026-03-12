@@ -5,6 +5,13 @@ namespace Onit
 {
     public class AppDbContext : DbContext
     {
+        public AppDbContext() { }
+
+        public AppDbContext(DbContextOptions<AppDbContext> options) : base(options)
+        {
+
+        }
+
         public DbSet<Server> Servers { get; set; }
         public DbSet<User> Users { get; set; }
         public DbSet<UserServer> UserServers { get; set; }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Onit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+96a44cb4d0f99da01c781f898afe79688bbaaf9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Onit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Onit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
