@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fszfbkq9mB0=",
+  "dgSpecHash": "aJAfiIORpCg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HeKuT\\OneDrive\\Документы\\ONIT3Lab\\Onit\\Onit.csproj",
+  "projectFilePath": "C:\\Users\\HeKuT\\OneDrive\\Рабочий стол\\Удалить\\ОНИТ\\лаба\\ONIT3Lab-main\\Onit\\Onit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HeKuT\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\HeKuT\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

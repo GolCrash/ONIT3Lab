@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HeKuT\\OneDrive\\Документы\\ONIT3Lab\\Onit\\Onit.csproj": {}
+    "C:\\Users\\HeKuT\\OneDrive\\Рабочий стол\\Удалить\\ОНИТ\\лаба\\ONIT3Lab-main\\Onit\\Onit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HeKuT\\OneDrive\\Документы\\ONIT3Lab\\Onit\\Onit.csproj": {
+    "C:\\Users\\HeKuT\\OneDrive\\Рабочий стол\\Удалить\\ОНИТ\\лаба\\ONIT3Lab-main\\Onit\\Onit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HeKuT\\OneDrive\\Документы\\ONIT3Lab\\Onit\\Onit.csproj",
+        "projectUniqueName": "C:\\Users\\HeKuT\\OneDrive\\Рабочий стол\\Удалить\\ОНИТ\\лаба\\ONIT3Lab-main\\Onit\\Onit.csproj",
         "projectName": "Onit",
-        "projectPath": "C:\\Users\\HeKuT\\OneDrive\\Документы\\ONIT3Lab\\Onit\\Onit.csproj",
+        "projectPath": "C:\\Users\\HeKuT\\OneDrive\\Рабочий стол\\Удалить\\ОНИТ\\лаба\\ONIT3Lab-main\\Onit\\Onit.csproj",
         "packagesPath": "C:\\Users\\HeKuT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HeKuT\\OneDrive\\Документы\\ONIT3Lab\\Onit\\obj\\",
+        "outputPath": "C:\\Users\\HeKuT\\OneDrive\\Рабочий стол\\Удалить\\ОНИТ\\лаба\\ONIT3Lab-main\\Onit\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

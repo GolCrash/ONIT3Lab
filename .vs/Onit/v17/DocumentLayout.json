@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\",
+  "WorkspaceRootPath": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\models\\userserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\models\\userserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\models\\userserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\onit3lab\\onit\\migrations\\20260305153157_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|c:\\users\\hekut\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0443\u0434\u0430\u043B\u0438\u0442\u044C\\\u043E\u043D\u0438\u0442\\\u043B\u0430\u0431\u0430\\onit3lab-main\\onit\\migrations\\20260305153157_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F6919AC0-8875-40DE-9E52-7412338E949E}|Onit\\Onit.csproj|solutionrelative:onit\\migrations\\20260305153157_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,24 +66,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\docker-compose.yml",
               "RelativeDocumentMoniker": "Onit\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\docker-compose.yml",
               "RelativeToolTip": "Onit\\docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2026-03-11T10:08:56.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T10:08:56.858Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\Dockerfile",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\Dockerfile",
               "RelativeDocumentMoniker": "Onit\\Dockerfile",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\Dockerfile",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\Dockerfile",
               "RelativeToolTip": "Onit\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -93,9 +92,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\.env",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\.env",
               "RelativeDocumentMoniker": "Onit\\.env",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\.env",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\.env",
               "RelativeToolTip": "Onit\\.env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
@@ -105,9 +104,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "20260305153157_InitDB.cs",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\Migrations\\20260305153157_InitDB.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\Migrations\\20260305153157_InitDB.cs",
               "RelativeDocumentMoniker": "Onit\\Migrations\\20260305153157_InitDB.cs",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\Migrations\\20260305153157_InitDB.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\Migrations\\20260305153157_InitDB.cs",
               "RelativeToolTip": "Onit\\Migrations\\20260305153157_InitDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,11 +116,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Onit\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\AppDbContext.cs",
               "RelativeToolTip": "Onit\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T15:28:45.708Z",
               "EditorCaption": ""
@@ -130,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "UserServer.cs",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\models\\UserServer.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\models\\UserServer.cs",
               "RelativeDocumentMoniker": "Onit\\models\\UserServer.cs",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\models\\UserServer.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\models\\UserServer.cs",
               "RelativeToolTip": "Onit\\models\\UserServer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,9 +141,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\models\\User.cs",
               "RelativeDocumentMoniker": "Onit\\models\\User.cs",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\models\\User.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\models\\User.cs",
               "RelativeToolTip": "Onit\\models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,9 +153,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\models\\Server.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\models\\Server.cs",
               "RelativeDocumentMoniker": "Onit\\models\\Server.cs",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\models\\Server.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\models\\Server.cs",
               "RelativeToolTip": "Onit\\models\\Server.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,15 +163,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\Program.cs",
               "RelativeDocumentMoniker": "Onit\\Program.cs",
-              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\ONIT3Lab\\Onit\\Program.cs",
+              "ToolTip": "C:\\Users\\HeKuT\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\\u0423\u0434\u0430\u043B\u0438\u0442\u044C\\\u041E\u041D\u0418\u0422\\\u043B\u0430\u0431\u0430\\ONIT3Lab-main\\Onit\\Program.cs",
               "RelativeToolTip": "Onit\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T15:25:41.755Z"
+              "WhenOpened": "2026-03-05T15:25:41.755Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -16,11 +16,15 @@ namespace Onit
         public DbSet<User> Users { get; set; }
         public DbSet<UserServer> UserServers { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            var connection = Environment.GetEnvironmentVariable("DB_CONNECTION");
-
-            optionsBuilder.UseSqlServer(connection);
+            if (!options.IsConfigured)
+            {
+                options.UseSqlServer(
+                    Environment.GetEnvironmentVariable("DB_CONNECTION")
+                    ?? "Server=localhost;Database=Gaming;Trusted_Connection=True;"
+                );
+            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
