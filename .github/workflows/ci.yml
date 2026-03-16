@@ -7,13 +7,10 @@ on:
     branches: [ "main" ]
 
 jobs:
-
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -23,10 +20,10 @@ jobs:
           dotnet-version: 10.0.x
 
       - name: Restore dependencies
-        run: dotnet restore ./Onit.sin
+        run: dotnet restore ./Onit.sln
 
       - name: Build project
-        run: dotnet build Onit.sin --configuration Release --no-restore
+        run: dotnet build ./Onit.sln --configuration Release --no-restore
 
       - name: Run tests
-        run: dotnet test Onit.sin --no-build --verbosity normal
+        run: dotnet test ./Onit.sln --no-build --verbosity normal
