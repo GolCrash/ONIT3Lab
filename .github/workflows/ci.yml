@@ -22,8 +22,8 @@ jobs:
         with:
           dotnet-version: 10.0.x
 
-      - name: Restore dependensies
-        run: dotnet restore Onit.sin
+      - name: Restore dependencies
+        run: dotnet restore ./Onit.sin
 
       - name: Build project
         run: dotnet build Onit.sin --configuration Release --no-restore
